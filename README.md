@@ -9,5 +9,6 @@ http://www.codota.com/android/scenarios/51891832da0aee0ce2558ad3/android.view.Me
 #Action-Bar Interaction
 http://www.programcreek.com/java-api-examples/index.php?api=android.view.MenuItem.OnMenuItemClickListener
 http://www.java2s.com/Code/Android/UI/Demonstrateshowfragmentscanparticipateintheoptionsmenu.htm
+http://www.vogella.com/tutorials/AndroidActionBar/article.html#usingactionbar_actions
 
 A simple guide for Action Bar
